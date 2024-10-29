@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2024-10-29 14:53:03.409749'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~20~20~2449~283471/full/!1024,1024/0/default.jpg
+  title: JRL22317968
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~20~20~2449~283471/manifest
+  user: yiphs
 settings: {}
 version: '2.1'

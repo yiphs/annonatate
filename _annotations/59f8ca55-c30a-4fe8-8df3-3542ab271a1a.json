@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~20~20~2449~283471/canvas/c1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Notes",
+            "purpose": "commenting",
+            "creator": {
+                "id": "yiphs",
+                "name": "yiphs"
+            },
+            "created": "2024-10-29T14:54:15.994Z",
+            "modified": "2024-10-29T14:54:16.540Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~20~20~2449~283471/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~20~20~2449~283471/canvas/c1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=449.4483947753906,632.4148559570312,2800.9473571777344,1216.9697875976562"
+        }
+    },
+    "id": "59f8ca55-c30a-4fe8-8df3-3542ab271a1a.json",
+    "motivation": "commenting"
+}
